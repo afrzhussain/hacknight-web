@@ -1,1 +1,2 @@
 # hacknight-web
+Website for the upcoming 24 hour Hackathon organised by Sahyadri Open Source Community(SOSC) at Sahyadri College of Engineering & Management as a part of the HacktoberFest celebrations.
