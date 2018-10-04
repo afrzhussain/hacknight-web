@@ -2291,7 +2291,9 @@ Cover
 .icon-lg {
   font-size: 64px !important;
 }
-
+.schl-ai{
+  background-image: url("assets/img/mozilla.png");
+}
 .icon-md {
   font-size: 32px !important;
 }
