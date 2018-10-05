@@ -413,7 +413,9 @@ img {
 .color-red {
   color: #f97794 !important;
 }
-
+.color-darkred{
+  color:#f50136;
+}
 .color-orange {
   color: #f79257 !important;
 }
