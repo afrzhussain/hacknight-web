@@ -2498,8 +2498,8 @@ Cover
 -------------------------------------------------------- */
 .price_box {
   position: relative;
-  padding: 75px 30px;
-  margin-bottom: 30px;
+  padding: 100px 60px;
+  margin-bottom: 50px;
   text-align: center;
   background-color: #f0f2f6;
   -webkit-transition: all ease-in-out 0.4s;
